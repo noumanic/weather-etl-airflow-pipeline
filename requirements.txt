@@ -1,0 +1,31 @@
+# Apache Airflow and Providers
+apache-airflow==2.8.0
+apache-airflow-providers-postgres==5.9.0
+
+# HTTP and API
+requests==2.31.0
+urllib3==2.1.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Development
+black==23.12.1
+flake8==7.0.0
+isort==5.13.2
+
+# Monitoring (optional)
+prometheus-client==0.19.0
